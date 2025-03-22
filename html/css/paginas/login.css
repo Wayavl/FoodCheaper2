@@ -1,0 +1,26 @@
+main form { 
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+    justify-content: center;
+    align-items:normal;
+    gap: 4px;
+    padding: 100px 0px;
+    background-color: #e4c827;
+    border-radius: 8px;
+}
+main form input {
+    border-radius: 8px;
+    border: 1px solid #acacac;
+    width: 250px;
+    padding: 10px 5px;
+    
+}
+main form div { 
+    align-self: center;
+}
+
+main p { text-align: center;}
+h1 { 
+    color: rgb(235, 247, 253);
+}
